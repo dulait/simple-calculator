@@ -1,4 +1,4 @@
-**# SimpleCalculator**# C# Windows Forms Calculator
+# C# Windows Forms Calculator
 
 A basic calculator app developed in C# using Windows Forms. Version 1.0 supports common arithmetic operations.
 
