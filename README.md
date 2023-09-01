@@ -5,7 +5,7 @@ A basic calculator app developed in C# using Windows Forms. Version 1.0 supports
 ## Installation
 
 1. Clone this repository.
-2. Ensure you have [.NET Framework](https://dotnet.microsoft.com/download) installed.
+2. Ensure you have the [.NET Framework](https://dotnet.microsoft.com/download) installed.
 3. Build and run the project.
 
 ## Usage
